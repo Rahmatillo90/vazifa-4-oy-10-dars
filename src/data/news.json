@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Toshkentda yangi metro bekati",
+    "content": "Toshkentda yangi metro bekati ochildi...",
+    "category": "local",
+    "date": "2024-01-12"
+  },
+  {
+    "id": 2,
+    "title": "Jahon chempionati yakunlandi",
+    "content": "Kecha jahon chempionati yakunlandi...",
+    "category": "sport",
+    "date": "2024-01-11"
+  }
+]
